@@ -1,4 +1,4 @@
-# :lion: hello-likelion :lion:
+# 🦁 hello-likelion 🦁  
 
 국민대학교에 서식하는 멋쟁이사자들이 만든 깃헙블로그들을 한번 살펴볼까요?
 
